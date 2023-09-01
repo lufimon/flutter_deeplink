@@ -1,3 +1,5 @@
+publish_to: none
+
 name: deeplink
 description: custom deep link clear intent data
 version: 0.0.1
